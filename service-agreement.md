@@ -1,15 +1,15 @@
-my company:       Studio MDS, LLC
-my nickname:      MDS
-my name:          Matt D. Smith
-my title:         Design Director
-my email:         mds@email.com
-my address:       123 Detach Instance Road
-my citystate:     Athens, GA 30606
-my state:         Georgia
-jurisdiction:     Clarke County, Georgia
+my company:       Callum Flack Design
+my nickname:      CFD
+my name:          Callum Flack
+my title:         Designer Developer
+my email:         callum@callumflack.design
+my address:       16 Ponticello Street
+my citystate:     Cairns, Queensland 4870
+my state:         Cairns
+jurisdiction:     Cairns, Queensland
 day:              Wednesday
 date:             12 August, 2020
-project type:     Website UX/UI Design
+project type:     Website Design and Development
 fname:            Bob
 lname:            Loblaw
 entity:           Acme, Inc.
